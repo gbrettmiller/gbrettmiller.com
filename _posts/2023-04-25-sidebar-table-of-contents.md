@@ -6,7 +6,7 @@ description: an example of a blog post with table of contents on a sidebar
 tags: formatting toc sidebar
 categories: sample-posts
 giscus_comments: true
-related_posts: false
+related_posts: true
 toc:
   sidebar: left
 ---

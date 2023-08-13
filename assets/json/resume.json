@@ -1,67 +1,105 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "g BRETT miller",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gbrett@gbrettmiller.com",
+    "phone": "240.428.8476",
+    "url": "https://gbrettmiller.com",
+    "summary": "A curious engineer who helps people find the right questions so they can come up with the best answers.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "MO",
+      "city": "St. Louis",
       "countryCode": "US",
-      "region": "California"
+      "region": "Missouri"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "gbrettmiller",
+        "url": "https://twitter.com/gbrettmiller"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "DSA, Inc.",
+      "position": "Jack of All Trades",
+      "url": "https://www.dsainc.com",
+      "startDate": "2011",
+      "endDate": "present",
+  "summary": "Work with product owner, design and development teams, customers, and users to deliver and support a large enterprise social network in the US Federal Government.",
       "highlights": [
-        "Relativity"
+        "Product Management",
+        "Service Design",
+        "UX Research",
+        "Solution Consulting"
+      ]
+    },
+    {
+      "name": "Janus Research Group, Inc.",
+      "position": "Senior Systems Engineer",
+      "url": "https://www.janusresearch.com",
+      "startDate": "2001",
+      "endDate": "2011",
+  "summary": "Develop requirements, program synchronization, platform integration",
+      "highlights": [
+        "Systems Engineering"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "name": "ACLU Missouri",
+      "position": "ACLU Missouri",
+      "url": "https://www.aclu-mo.org",
+      "startDate": "2019",
+      "endDate": "2022",
+  "summary": "Take the proof-of-concept Complaint Status Notification app prepared during Code With a Cause 2019, build an MVP that can be put into production, and help external team integrate the capabilities into the overall Complaint Management tool.",
+      "highlights": [
+        "Product Management",
+        "Service Design",
+        "UX Research",
+        "Journey Mapping",
+        "Story Mapping"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Central Michigan University",
+      "url": "https://www.cmich.edu/",
+      "area": "",
+      "studyType": "MS Administration",
+      "startDate": "",
+      "endDate": "2004",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "University of Missouri - Rolla",
+      "url": "https://www.cmich.edu/",
+      "area": "",
+      "studyType": "BS Electrical Engineering",
+      "startDate": "",
+      "endDate": "1987",
+      "score": "",
+      "courses": []
     }
   ],
-  "awards": [
+  /*"awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
-  ],
+  ],*/
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
+  /*"languages": [
     {
       "language": "German",
       "fluency": "Native speaker"
@@ -70,7 +108,7 @@
       "language": "English",
       "fluency": "Fluent"
     }
-  ],
+  ],*/
   "interests": [],
   "references": [],
   "projects": []

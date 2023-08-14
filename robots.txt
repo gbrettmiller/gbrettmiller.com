@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gbrettmiller.com//sitemap.xml
+Sitemap: https://gbrettmiller.github.io/gbrettmiller.com//sitemap.xml
